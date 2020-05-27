@@ -13,10 +13,10 @@ In directory containing app
 
 `npm install`
 
-to install all needed libraries
+to install all needed libraries.
 
 
-`react-native start` to build and start development server
+`react-native run-android` to build and start on emulator or connected device.
 
 
 ## Download latest builds
