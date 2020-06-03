@@ -1,5 +1,7 @@
 # HikingJournal
 
+[![Build Status](https://travis-ci.com/orrrg/HikingJournal.svg?branch=master)](https://travis-ci.com/orrrg/HikingJournal)
+
 ## Description
 
 HikingJournal is simple android journal application providing easy to use way of saving your hiking routes, memorable places location etc. Saved only on your phone.
