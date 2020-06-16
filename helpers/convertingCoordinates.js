@@ -6,7 +6,7 @@ export default class DMSCoords {
 
 //get number index of period in decimal number
 
-function getDecimalIndex(decimalString){
+function getDecimalIndex(decimalString) {
   var index = decimalString.indexOf('.');
   return index;
 }
