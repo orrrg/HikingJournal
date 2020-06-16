@@ -1,4 +1,4 @@
-import {DMSCoords, convertToDMSFromDD} from '../helpers/convertingCoordinates';
+import {convertToDMSFromDD} from '../helpers/convertingCoordinates';
 
 it('converted data is correct', () => {
   var input = 23.22334122;
